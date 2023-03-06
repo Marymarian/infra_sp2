@@ -72,7 +72,7 @@ DATABASES = {
         'HOST': os.getenv('DB_HOST', default='db'),
         'PORT': os.getenv('DB_PORT', default='5432')
     }
-} 
+}
 
 
 # Password validation
