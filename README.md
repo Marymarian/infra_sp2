@@ -102,8 +102,8 @@ docker-compose exec web python manage.py collectstatic --no-input
 
 # Авторы.
 
-Студенты курса Python-разработчик - школы Яндекс.Практикум: Валентина Лаврова, Марина Вторушина, Фёдор Фальтинский.
+Марина Чухарева
 
 # Технологии. 
 
-Python 3, Django, Django REST, JWT, GitHub.
+Python 3, Django, Docker.
